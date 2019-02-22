@@ -7,9 +7,15 @@ public class MainClassTest extends MainClass
     @Test
     public void testGetClassNumber()
     {
-        int a = this.getClassNumber();
-        System.out.println(a);
+        String str = this.getClassString();
+        if (str.contains("Hello"))
+        {
 
-        Assert.assertTrue("Number less than or equal to 45",a > 45);
+        } else if (str.contains("hello")) {
+
+        } else {
+            Assert.fail("String does not contains 'Hello' or 'hello' ");
+        }
+
     }
 }

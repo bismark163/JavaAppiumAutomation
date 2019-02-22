@@ -1,14 +1,14 @@
 public class MainClass
 {
-    public int getClassNumber()
+    public String getClassString()
     {
-        return this.class_number();
+        return this.class_string();
     }
 
 
-    private int class_number()
+    private String class_string()
     {
-        int number = 20;
-        return number;
+        String string = "Hello, World!";
+        return string;
     }
 }
