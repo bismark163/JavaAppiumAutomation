@@ -5,11 +5,11 @@ public class MainClassTest extends MainClass
 
 {
     @Test
-    public void testGetLocalNumber()
+    public void testGetClassNumber()
     {
-        int a = this.getLocalNumber();
+        int a = this.getClassNumber();
         System.out.println(a);
 
-        Assert.assertTrue("Number is not 14",a == 14);
+        Assert.assertTrue("Number less than or equal to 45",a > 45);
     }
 }
