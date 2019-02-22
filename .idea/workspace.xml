@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e20bd48a-be35-4505-80f1-4a371b217dd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAppiumAutomation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaAppiumAutomation/META-INF/JavaAppiumAutomation.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaAppiumAutomation/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaAppiumAutomation/MainClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -35,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -58,10 +48,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="139" />
-    <option name="y" value="9" />
+    <option name="x" value="161" />
+    <option name="y" value="19" />
     <option name="width" value="1400" />
-    <option name="height" value="922" />
+    <option name="height" value="913" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -93,7 +83,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550863303594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550864051248" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,10 +131,12 @@
     <history-entry file="MainClassTest_testGetLocalNumber - 2019.02.22 at 22h 18m 24s.xml">
       <configuration name="MainClassTest.testGetLocalNumber" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MainClassTest_testGetLocalNumber - 2019.02.22 at 22h 26m 32s.xml">
+      <configuration name="MainClassTest.testGetLocalNumber" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="139" y="9" width="1400" height="922" extended-state="0" />
-    <editor active="true" />
+    <frame x="161" y="19" width="1400" height="913" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -154,12 +146,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35746267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" weight="0.54245883" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953104" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32953104" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294509" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282636" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,13 +219,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MainClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -241,6 +226,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
